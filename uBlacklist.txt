@@ -202,6 +202,7 @@
 *://*.rentthemusical.jp/*
 *://*.repairman.jp/*
 *://*.resumedia.jp/*
+*://retty.me/*
 *://*.rinchantrend.com/*
 *://*.rokepan.com/*
 *://*.romiohan.biz/*
